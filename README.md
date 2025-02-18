@@ -37,7 +37,7 @@ A ferramenta de detecção de backdoors para sistemas operacionais permite a an�
 ## Uso
 Para rodar a ferramenta e iniciar a detecção, basta executar o script main.py:
    ```bash
-    python main.py ```
+    python main.py 
 
 ## Contribuição
 
